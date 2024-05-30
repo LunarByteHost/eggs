@@ -7,7 +7,7 @@
   "exported_at": "2024-02-13T17:26:13+0000",
   "name": "Purpur (Plugins)",
   "author": "admin@lunarbyte.net",
-  "description": "A drop-in replacement for Paper servers designed for configurability, and forked from Pufferfish",
+  "description": "",
   "features": ["eula", "java_version", "pid_limit"],
   "docker_images": {
     "Java 8": "ghcr.io/pterodactyl/yolks:java_8",
